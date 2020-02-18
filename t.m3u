@@ -1,0 +1,562 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
+http://39.135.34.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
+#EXTINF:-1 group-title="央视频道",CCTV-7军事农业
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17农村农业
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4K超高清
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 group-title="央视频道",CNC
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://39.135.34.150:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://39.135.34.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://39.135.34.150:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://39.135.34.150:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://39.135.34.150:18890/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021220&owchid=ystenlive&owsid=1106497909461381684&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u%2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://39.135.34.150:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024694&owchid=ystenlive&owsid=1106497909461387812&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://39.135.34.139:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
+#EXTINF:-1 group-title="卫视频道",延边卫视
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://39.135.34.138:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000014080&owchid=ystenlive&owsid=1106497909461412819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo%2fq60rUnbic%2fTx5hxEUA%2fCrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://39.135.34.147:18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3%2bnCiQyrISnc%2fLQjwPdTUSlBahL%2bKNKpM
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://39.135.34.146:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000029441&owchid=ystenlive&owsid=1106497909461419044&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://39.135.34.151:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
+#EXTINF:-1 group-title="广东频道",广东体育
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1 group-title="广东频道",广东体育
+p8p://0198.02686.cc:16871/5d1a69bc000974fd11bdfdedd4967d61.ts
+#EXTINF:-1 group-title="广东频道",广东体育
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东体育
+http://nclive.grtn.cn/typd/playlist.m3u8
+#EXTINF:-1 group-title="广东频道",广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东经济科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东综艺4K
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东影视
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 group-title="广东频道",广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东现代教育
+http://nclive.grtn.cn/jypd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",佛山影视
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+#EXTINF:-1 group-title="广东频道",佛山公共
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+#EXTINF:-1 group-title="广东频道",潮州综合
+http://dslive.grtn.cn/czzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",潮州公共
+http://live.zscz0768.com/live/ggpd.m3u8
+#EXTINF:-1 group-title="广东频道",汕头综合
+http://dslive.grtn.cn/stzh/sd/live.m3u8
+#EXTINF:-1 group-title="港台频道",TVB翡翠台
+http://live.ergt4rt.wang/gangaotai.php?id=1
+#EXTINF:-1 group-title="港台频道",TVB翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台频道",无线新闻台
+http://live.ergt4rt.wang/gangaotai.php?id=9
+#EXTINF:-1 group-title="港台频道",有线新闻台
+http://live.ergt4rt.wang/gangaotai.php?id=31
+#EXTINF:-1 group-title="港台频道",有线新闻台
+http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+rtmp://58.200.131.2:1935/livetv/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://24tl.qingk.cn/live/fhws988.flv
+#EXTINF:-1 group-title="港台频道",凤凰中文
+rtmp://58.200.131.2:1935/livetv/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰香港
+p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+#EXTINF:-1 group-title="港台频道",无线财经资讯台
+http://live.ergt4rt.wang/gangaotai.php?id=10
+#EXTINF:-1 group-title="港台频道",TVB 明珠台
+http://live.ergt4rt.wang/gangaotai.php?id=13
+#EXTINF:-1 group-title="港台频道",TVB 明珠台
+p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+#EXTINF:-1 group-title="港台频道",TVB 明珠台
+http://livepgc0002.sobeycache.com/live/578mzm.m3u8
+#EXTINF:-1 group-title="港台频道",TVB 星河
+http://flv.live.xylive.tv/live/0040.flv
+#EXTINF:-1 group-title="港台频道",TVB 星河
+P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+#EXTINF:-1 group-title="港台频道",TVB 星河
+http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
+#EXTINF:-1 group-title="港台频道",TVB 星河
+mitv://120.79.144.205:9906/5dc08f2a000c358f01b830afaa89e001.ts
+#EXTINF:-1 group-title="港台频道",TVB 星河
+http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
+#EXTINF:-1 group-title="港台频道",TVB 星河
+p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
+#EXTINF:-1 group-title="港台频道",TVB J2
+http://live.ergt4rt.wang/gangaotai.php?id=12
+#EXTINF:-1 group-title="港台频道",TVB J2
+P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+#EXTINF:-1 group-title="港台频道",TVB J2
+p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+#EXTINF:-1 group-title="港台频道",TVB 功夫
+http://61.147.122.15/flv.live.xylive.tv/live/0030.flv
+#EXTINF:-1 group-title="港台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",无线财经资讯台
+http://live.ergt4rt.wang/gangaotai.php?id=10
+#EXTINF:-1 group-title="港台频道",有线18台
+rtmp://rtmp.live.xylive.tv/live/18tai
+#EXTINF:-1 group-title="港台频道",寰宇新闻台
+p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+#EXTINF:-1 group-title="港台频道",中天新闻HD
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 group-title="港台频道",东森新闻HD
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="港台频道",东森新闻HD
+p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+#EXTINF:-1 group-title="港台频道",东森新闻HD
+P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+#EXTINF:-1 group-title="港台频道",年代新闻
+http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
+#EXTINF:-1 group-title="港台频道",非凡新闻
+p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+#EXTINF:-1 group-title="港台频道",非凡新闻
+vjms://58.215.133.185:8500:3502/live/cid=443
+#EXTINF:-1 group-title="港台频道",非凡新闻
+P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+#EXTINF:-1 group-title="港台频道",三立新闻
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="港台频道",三立新闻
+vjms://58.215.133.185:8500:3502/live/cid=352
+#EXTINF:-1 group-title="港台频道",民视新闻
+p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+#EXTINF:-1 group-title="港台频道",东森财经
+p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+#EXTINF:-1 group-title="港台频道",寰宇财经台
+p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
+#EXTINF:-1 group-title="港台频道",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",ViuTV
+http://live.ergt4rt.wang/gangaotai.php?id=8
+#EXTINF:-1 group-title="港台频道",Channel V
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
+#EXTINF:-1 group-title="港台频道",TVBS
+vjms://113.96.133.24:8500:3502/live/cid=349&delay=200&httpbuf=200&memory=50
+#EXTINF:-1 group-title="港台频道",华视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
+#EXTINF:-1 group-title="港台频道",中视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
+#EXTINF:-1 group-title="港台频道",中视经典
+http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
+#EXTINF:-1 group-title="港台频道",霹雳台湾台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/14b736ee363e84918a8c43c69691faaa.m3u8
+#EXTINF:-1 group-title="港台频道",三立台湾台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8
+#EXTINF:-1 group-title="港台频道",星空卫视
+http://live.ergt4rt.wang/gangaotai.php?id=18
+#EXTINF:-1 group-title="港台频道",星空卫视
+http://27.36.62.162:9090/live/xingkong_1500.m3u8
+#EXTINF:-1 group-title="港台频道",星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 group-title="港台频道",FOX HD
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
+#EXTINF:-1 group-title="港台频道",BBC Lifestyle
+http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
+#EXTINF:-1 group-title="港台频道",天映频道
+http://flv.live.xylive.tv/live/0050.flv
+#EXTINF:-1 group-title="港台频道",凤凰电影台
+https://116.77.72.195/streams/d/fhdy/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",凤凰电影台
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="港台频道",凤凰电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 group-title="港台频道",FOXNews
+p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
+#EXTINF:-1 group-title="记录频道",国家地理野生
+vjms://58.215.133.185:8500:3502/live/cid=263
+#EXTINF:-1 group-title="记录频道",国家地理
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 group-title="记录频道",探索频道
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 group-title="记录频道",探索亚洲
+vjms://58.215.133.185:8500:3502/live/cid=440
+#EXTINF:-1 group-title="记录频道",探索亚洲
+vjms://121.14.222.75:8500:3502/live/cid=440
+
+#EXTINF:-1 group-title="记录频道",探索科学
+vjms://58.215.133.185:8500:3502/live/cid=457
+#EXTINF:-1 group-title="记录频道",动物星球
+vjms://121.14.222.75:8500:3502/live/cid=3
+#EXTINF:-1 group-title="记录频道",动物星球
+p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+#EXTINF:-1 group-title="记录频道",TLC旅游生活
+vjms://58.215.133.185:8500:3502/live/cid=103
+#EXTINF:-1 group-title="记录频道",TLC旅游生活
+vjms://121.14.222.75:8500:3502/live/cid=103
+#EXTINF:-1 group-title="记录频道",TLC旅游生活
+vjms://23.237.33.155:8500:3502/live/cid=103
+#EXTINF:-1 group-title="记录频道",亚洲旅游台
+p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+#EXTINF:-1 group-title="记录频道",年代MUCH
+vjms://58.215.133.185:8500:3502/live/cid=439
+#EXTINF:-1 group-title="记录频道",年代MUCH
+vjms://121.14.222.75:8500:3502/live/cid=439
+#EXTINF:-1 group-title="记录频道",年代MUCH
+vjms://23.237.33.155:8500:3502/live/cid=439
+#EXTINF:-1 group-title="记录频道",美食星球
+p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
+#EXTINF:-1 group-title="记录频道",影迷纪实台
+http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
+#EXTINF:-1 group-title="记录频道",SMART
+p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+#EXTINF:-1 group-title="记录频道",MTV
+vjms://58.215.133.185:8500:3502/live/cid=52
+#EXTINF:-1 group-title="记录频道",Fashion
+vjms://58.215.133.185:8500:3502/live/cid=399
+#EXTINF:-1 group-title="记录频道",Fashion
+vjms://121.14.222.75:8500:3502/live/cid=399
+#EXTINF:-1 group-title="记录频道",TV5MONDE
+vjms://58.215.133.185:8500:3502/live/cid=396
+#EXTINF:-1 group-title="记录频道",TV5MONDE
+vjms://121.14.222.75:8500:3502/live/cid=396
+#EXTINF:-1 group-title="记录频道",TV5MONDE
+vjms://23.237.33.155:8500:3502/live/cid=396
+#EXTINF:-1 group-title="记录频道",StarWorld
+p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+#EXTINF:-1 group-title="记录频道",BBCLifestyle
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
+#EXTINF:-1 group-title="记录频道",CHANNEL[V]
+http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv#rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1 group-title="少儿卡通",小猪佩奇
+http://v.iam7.cn/iptv/migu/?id=639528313
+#EXTINF:-1 group-title="少儿卡通",名侦探柯南
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+#EXTINF:-1 group-title="少儿卡通",名侦探柯南
+http://110.185.186.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_mingzhentankenan_720p_t10/c20_lb_mingzhentankenan_720p_t10.m3u8
+#EXTINF:-1 group-title="少儿卡通",超级飞侠
+http://v.iam7.cn/iptv/migu/?id=639528180
+#EXTINF:-1 group-title="少儿卡通",蜡笔小新
+http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="少儿卡通",嘉佳卡通
+http://nclive.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:-1 group-title="少儿卡通",CIBN_炫佳动漫
+http://stream.guihet.com/tv/cibn.php?id=19
+#EXTINF:-1 group-title="精彩轮播",电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",家庭影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="精彩轮播",亚洲电影
+http://aldirect.hls.huya.com:80/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",星影电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="精彩轮播",精选电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="精彩轮播",海外影院
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",海外剧场
+http://tx.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",戏剧影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="精彩轮播",高清影视
+http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",恐怖电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",惊魂电影
+http://aldirect.hls.huya.com/huyalive/1448686674-1448686674-6222061886981013504-2789274590-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",科幻电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",好莱坞电影
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",怪物科幻
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",漫威电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",灾难电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",动漫大电影
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",亚洲电影1
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",亚洲电影2
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",金庸武侠
+https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",乐视电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",乐视电视剧
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",周星驰电影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",周星驰影院
+http://v.iam7.cn/iptv/migu/?id=623338112
+#EXTINF:-1 group-title="精彩轮播",吴京作品集
+http://v.iam7.cn/iptv/migu/?id=625681368
+#EXTINF:-1 group-title="精彩轮播",成龙作品集
+http://v.iam7.cn/iptv/migu/?id=639528181
+#EXTINF:-1 group-title="精彩轮播",古天乐影院
+http://v.iam7.cn/iptv/migu/?id=627198610
+#EXTINF:-1 group-title="精彩轮播",周润发电影
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",刘德华电影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",甄子丹电影
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",李连杰电影
+https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",洪金宝电影
+https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",林正英电影
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩轮播",王晶电影
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",刘德华作品
+http://v.iam7.cn/iptv/migu/?id=659315648
+#EXTINF:-1 group-title="精彩轮播",刘涛作品集
+http://v.iam7.cn/iptv/migu/?id=625514969
+#EXTINF:-1 group-title="精彩轮播",轮播台|贝爷荒野求生
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
+#EXTINF:-1 group-title="精彩轮播",漫威不死
+http://aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="精彩轮播",每日科幻电影
+http://v.iam7.cn/iptv/migu/?id=625204865
+#EXTINF:-1 group-title="精彩轮播",CBN每日影院
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="精彩轮播",黄金剧场
+http://v.iam7.cn/iptv/migu/?id=625155140
+#EXTINF:-1 group-title="精彩轮播",军旅剧场
+http://v.iam7.cn/iptv/migu/?id=625643517
+#EXTINF:-1 group-title="精彩轮播",抗战老片
+http://v.iam7.cn/iptv/migu/?id=625542372
+#EXTINF:-1 group-title="精彩轮播",少林剧场
+http://v.iam7.cn/iptv/migu/?id=625526423
+#EXTINF:-1 group-title="精彩轮播",喜剧联盟
+http://v.iam7.cn/iptv/migu/?id=637444830
+#EXTINF:-1 group-title="精彩轮播",情感剧场
+http://v.iam7.cn/iptv/migu/?id=625574378
+#EXTINF:-1 group-title="精彩轮播",僵尸剧场
+http://v.iam7.cn/iptv/migu/?id=627033504
+#EXTINF:-1 group-title="精彩轮播",深夜尤物剧场
+http://v.iam7.cn/iptv/migu/?id=625759558
+#EXTINF:-1 group-title="精彩轮播",每日科幻电影
+http://v.iam7.cn/iptv/migu/?id=625204865
+#EXTINF:-1 group-title="精彩轮播",新片放映厅
+http://v.iam7.cn/iptv/migu/?id=619495952
+#EXTINF:-1 group-title="精彩轮播",高分影院
+http://v.iam7.cn/iptv/migu/?id=627198191
+#EXTINF:-1 group-title="精彩轮播",华数_BBC系列
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 group-title="精彩轮播",华数_军事纪实
+http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
+#EXTINF:-1 group-title="精彩轮播",华数_历史解密
+http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+#EXTINF:-1 group-title="精彩轮播",华数_科教人文
+http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+#EXTINF:-1 group-title="精彩轮播",华数_大国时代
+http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+#EXTINF:-1 group-title="精彩轮播",华数_热血抗战
+http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_电影大片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_贺岁影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_动作电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_票房收割机
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_欢乐剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_经典港片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_惊悚午夜场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_动画电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_华语院线
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_粤语原生
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_怀旧剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_日韩院线
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_温情影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_周末影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_婚姻剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_权谋剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_经典重温
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_谍战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_军旅剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_情景喜剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kaixinjuchang_1080p_t10/c16_lb_kaixinjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_老剧超清修复
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_收视冠军
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_老年剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_仙侠玄幻
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_青春剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_宫廷正剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_家庭剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_抗战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_热播电视剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_历史秘闻
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_旅游攻略
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lvyounew_1080p_t10/c15_lb_lvyounew_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_军事观察
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_童年经典
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_动画小天地
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_动物兄弟
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_怀旧动画
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_儿童乐园
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺轮播",爱奇艺_亲子启蒙
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
+#EXTINF:-1 group-title="电影频道",囧妈
+https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8?sign=f1aad92254dd1ba4148ffe0bd60c782a
+#EXTINF:-1 group-title="电影频道",亲密旅行
+https://youku.cdn7-okzy.com/20200123/16805_8d343f70/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="电影频道",掠夺者
+https://youku.cdn7-okzy.com/20200115/16676_9a12b165/index.m3u8?sign=6a4093922b54ad24d237ebe9b3f68b72
+#EXTINF:-1 group-title="电影频道",我不是杀手
+https://youku.haokzy-tudou.com/ppvod/1mkyA3wO.m3u8
+#EXTINF:-1 group-title="电影频道",睡眠医生
+https://youku.haokzy-tudou.com/ppvod/UapPyk1b.m3u8
+#EXTINF:-1 group-title="测试频道_0",雷神山
+http://mobilelive-play.ysp.cctv.cn/ysp/000/2001893301_fhd.m3u8
+#EXTINF:-1 group-title="测试频道_0",游云南
+http://mobilelive-play.ysp.cctv.cn/ysp/000/2001291703_fhd.m3u8
+#EXTINF:-1 group-title="测试频道_0",水立方
+http://mobilelive-play.ysp.cctv.cn/ysp/000/2001713003_fhd.m3u8
+#EXTINF:-1 group-title="测试频道_0",慢直播
+http://mobilelive-play.ysp.cctv.cn/ysp/000/2001809801_fhd.m3u8
+#EXTINF:-1 group-title="测试频道_0",秘境之眼
+http://mobilelive-play.ysp.cctv.cn/ysp/000/2001293703_fhd.m3u8
+#EXTINF:-1 group-title="测试频道_0",翡翠台
+http://live.ergt4rt.wang/gangaotai.php?id=10
+#EXTINF:-1 group-title="测试频道_0",无线新闻台
+http://live.ergt4rt.wang/gangaotai.php?id=9
+#EXTINF:-1 group-title="测试频道_0",翡翠台3
+http://live.ergt4rt.wang/gangaotai.php?id=12
